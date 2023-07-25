@@ -136,7 +136,7 @@ button {
 
 .link--icon {
   color: var(--clr-fg);
-  font-size: 4.5rem;
+  font-size: 5rem;
 }
 
 .btn {
@@ -319,9 +319,9 @@ main {
   color: var(--clr-fg-alt);
 }
 
-.project .link--icon {
+/* .project .link--icon {
   margin-left: 0.5em;
-}
+} */
 
 .skills__list {
   max-width: 450px;
