@@ -411,12 +411,16 @@ main {
   }
 }
 .ProfilePic {
-  width: auto; 
-  height: 300px;
+  width: 200px; 
+  height: auto;
   border-radius: 20%; 
   overflow: hidden; 
   border: 5px solid #2978b5; 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  margin: 0 auto; 
   margin-bottom: 19px;
 }
 
@@ -424,5 +428,4 @@ main {
   width: 100%; 
   height: 100%;
   object-fit: cover;
-  margin-bottom: 19px; 
 }
